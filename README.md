@@ -1,5 +1,7 @@
 # Proyek Analisis Data Dicoding Dashboard
-
+- **Nama:** Muhammad Fikri Wahidin
+- **Email:** fikriayam4@gmail.com
+- **ID Dicoding:** fikriwahidin
 ## Setup environment
 ```
 conda create --name main-ds
